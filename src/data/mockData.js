@@ -152,3 +152,31 @@ export const DEPARTMENTS = [
   { value: "energy science and engineering", label: "Energy Science & Engineering" },
 ];
 
+export const STATES = [
+  { value: "IN-AP", label: "Andhra Pradesh" },
+  { value: "IN-AR", label: "Arunachal Pradesh" },
+  { value: "IN-AS", label: "Assam" },
+  { value: "IN-BR", label: "Bihar" },
+  { value: "IN-CT", label: "Chhattisgarh" },
+  { value: "IN-GA", label: "Goa" },
+  { value: "IN-GJ", label: "Gujarat" },
+  { value: "IN-HR", label: "Haryana" },
+  { value: "IN-HP", label: "Himachal Pradesh" },
+  { value: "IN-JK", label: "Jammu and Kashmir" },
+  { value: "IN-JH", label: "Jharkhand" },
+  { value: "IN-KA", label: "Karnataka" },
+  { value: "IN-KL", label: "Kerala" },
+  { value: "IN-MP", label: "Madhya Pradesh" },
+  { value: "IN-MH", label: "Maharashtra" },
+  { value: "IN-MN", label: "Manipur" },
+  { value: "IN-ML", label: "Meghalaya" },
+  { value: "IN-OR", label: "Odisha" },
+  { value: "IN-PB", label: "Punjab" },
+  { value: "IN-RJ", label: "Rajasthan" },
+  { value: "IN-TN", label: "Tamil Nadu" },
+  { value: "IN-TG", label: "Telangana" },
+  { value: "IN-UP", label: "Uttar Pradesh" },
+  { value: "IN-WB", label: "West Bengal" },
+  { value: "IN-DL", label: "Delhi" },
+];
+
