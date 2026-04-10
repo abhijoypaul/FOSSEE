@@ -22,17 +22,19 @@ A mobile-first React frontend rebuilt from scratch for the FOSSEE Workshop Booki
 - Login/Register were separate full-page reloads
 
 ### After (New React UI)
-<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/0be03663-e73f-42e6-8ccd-09ae64c199b1" />
-  <img width="1920" height="1080" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/6208192e-8b15-428d-bd59-618f53f6b4c7" />
-  <img width="1920" height="1080" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/e63b2a55-13cc-4ca8-8392-b2cfbff674e2" />
-  <img width="1920" height="1080" alt="Screenshot (334)" src="https://github.com/user-attachments/assets/5e6926c3-671c-45dc-b99b-5af2d42ae0c8" />
-<img width="1920" height="1080" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/4a408481-7afa-4fef-be5d-0c64b4675776" />
-<img width="1920" height="1080" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/19eda320-b90f-4b28-a8fc-bcb546a10f0d" />
-<img width="1920" height="1080" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/d354deb9-01d3-49d0-bede-ecb6ec82d9fb" />
-<img width="1920" height="1080" alt="Screenshot (339)" src="https://github.com/user-attachments/assets/71a690f9-e346-4e22-9297-7cdc3506da15" />
-<img width="1920" height="1080" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/73d94503-f377-42b2-bf02-a00066b8a1a5" />
-  <img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/90826808-e84a-4558-a2e3-06dbeb063f70" />
-  
+
+![WhatsApp Image 2026-04-10 at 10 27 20 PM](https://github.com/user-attachments/assets/7733b6b5-0e24-4e1e-88f6-9f0d0b8cb70f)
+![WhatsApp Image 2026-04-10 at 10 27 20 PM (1)](https://github.com/user-attachments/assets/2296c902-e224-4153-9aa9-b15df0395120)
+![WhatsApp Image 2026-04-10 at 10 27 18 PM (2)](https://github.com/user-attachments/assets/9cd4d322-2e80-4191-9242-8eaed85e3a90)
+![WhatsApp Image 2026-04-10 at 10 27 19 PM](https://github.com/user-attachments/assets/c70392f5-2e04-4b92-b89b-895925ec91b4)
+![WhatsApp Image 2026-04-10 at 10 27 19 PM (2)](https://github.com/user-attachments/assets/f9e79e54-2f8f-40ea-bb72-8c48f1a4246b)
+![WhatsApp Image 2026-04-10 at 10 27 19 PM (1)](https://github.com/user-attachments/assets/a1fad14a-304d-4086-97d9-800637ec7cf7)
+![WhatsApp Image 2026-04-10 at 10 27 18 PM](https://github.com/user-attachments/assets/53cf5cfb-1690-4269-b006-595abf5b351f)
+![WhatsApp Image 2026-04-10 at 10 27 18 PM (2)](https://github.com/user-attachments/assets/d365f3a5-c1e8-4371-bf77-1b44e078b197)
+![WhatsApp Image 2026-04-10 at 10 27 18 PM (1)](https://github.com/user-attachments/assets/6cb65b12-db9c-4fcf-ad40-55f0cd1ce142)
+![WhatsApp Image 2026-04-10 at 10 27 17 PM](https://github.com/user-attachments/assets/f5c3cd6a-17d1-4e06-bea7-0643dd40b776)
+
+
 - Warm editorial design system (cream + ink palette, Fraunces serif + DM Sans)
 - Fixed bottom tab bar for one-thumb navigation on mobile
 - Card-based layouts with clear visual hierarchy and breathing room
