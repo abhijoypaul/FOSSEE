@@ -7,6 +7,7 @@ A mobile-first React frontend rebuilt from scratch for the FOSSEE Workshop Booki
 ## Before & After
 
 ### Before (Original Django UI)
+
 - Plain Bootstrap 4 tables with no mobile optimisation
 - Fixed desktop navbar with no bottom navigation for thumbs
 - Dense form layouts that required horizontal scrolling on phones
@@ -25,6 +26,7 @@ A mobile-first React frontend rebuilt from scratch for the FOSSEE Workshop Booki
 <img width="1920" height="1080" alt="Screenshot (339)" src="https://github.com/user-attachments/assets/71a690f9-e346-4e22-9297-7cdc3506da15" />
 <img width="1920" height="1080" alt="Screenshot (340)" src="https://github.com/user-attachments/assets/73d94503-f377-42b2-bf02-a00066b8a1a5" />
   <img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/90826808-e84a-4558-a2e3-06dbeb063f70" />
+  
 - Warm editorial design system (cream + ink palette, Fraunces serif + DM Sans)
 - Fixed bottom tab bar for one-thumb navigation on mobile
 - Card-based layouts with clear visual hierarchy and breathing room
