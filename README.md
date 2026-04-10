@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FOSSEE Workshop Portal — React Frontend
 
 A mobile-first React frontend for the FOSSEE Workshop Booking system (IIT Bombay).
@@ -55,3 +56,6 @@ Replace the mock functions in `AppContext.js` with real `fetch()` calls to:
 - `GET  /workshop/types/` → populate `WORKSHOP_TYPES`
 - `POST /workshop/propose/` → `proposeWorkshop()`
 - `GET  /workshop/status` → coordinator bookings
+=======
+# FOSSEE
+>>>>>>> 9d8ba1331c585fa91c3d79589a40c4fa9cb70fe7
